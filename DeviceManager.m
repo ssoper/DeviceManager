@@ -6,6 +6,9 @@
 //  Copyright (c) 2011 Sean Soper. All rights reserved.
 //
 
+// Shared instance code courtesy of @lukeredpath
+// http://lukeredpath.co.uk/blog/a-note-on-objective-c-singletons.html
+
 #import "DeviceManager.h"
 
 @implementation DeviceManager
